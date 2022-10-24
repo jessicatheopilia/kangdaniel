@@ -1,0 +1,12 @@
+body {
+  background-image: url("bg.jpg");
+  color: black;
+ font-family: lucida handwriting;
+}
+
+h1 {
+  color: saddlebrown;
+  margin-left: 20px;
+  border-style: double;
+ font-family: papyrus;
+}
